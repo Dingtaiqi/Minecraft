@@ -1,32 +1,59 @@
-[19:49:09] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[19:49:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:49:14] [ServerMain/INFO]: Loaded 1290 recipes
-[19:49:16] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:49:16] [Server thread/INFO]: Loading properties
-[19:49:16] [Server thread/INFO]: Default game type: SURVIVAL
-[19:49:16] [Server thread/INFO]: Generating keypair
-[19:49:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:49:16] [Server thread/INFO]: Using default channel type
-[19:49:16] [Server thread/INFO]: This server is running CraftBukkit version 4226-Bukkit-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[19:49:17] [Server thread/INFO]: Preparing level "world"
-[19:49:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:49:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:49:18] [Server thread/INFO]: Time elapsed: 444 ms
-[19:49:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:49:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:49:18] [Server thread/INFO]: Time elapsed: 150 ms
-[19:49:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:49:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:49:18] [Server thread/INFO]: Time elapsed: 129 ms
-[19:49:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:49:18] [Server thread/INFO]: Done (1.823s)! For help, type "help"
-[19:49:22] [Server thread/INFO]: Stopping server
-[19:49:22] [Server thread/INFO]: Saving players
-[19:49:23] [Server thread/INFO]: Saving worlds
-[19:49:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:49:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:49:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:49:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:55:14] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[19:55:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:55:20] [ServerMain/INFO]: Loaded 1290 recipes
+[19:55:21] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:55:21] [Server thread/INFO]: Loading properties
+[19:55:21] [Server thread/INFO]: Default game type: SURVIVAL
+[19:55:21] [Server thread/INFO]: Generating keypair
+[19:55:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:55:21] [Server thread/INFO]: Using default channel type
+[19:55:21] [Server thread/INFO]: This server is running CraftBukkit version 4226-Bukkit-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[19:55:22] [Server thread/INFO]: Preparing level "world"
+[19:55:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:55:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:55:24] [Server thread/INFO]: Time elapsed: 570 ms
+[19:55:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:55:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:55:24] [Server thread/INFO]: Time elapsed: 222 ms
+[19:55:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:55:24] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:55:24] [Server thread/INFO]: Time elapsed: 216 ms
+[19:55:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:55:24] [Server thread/INFO]: Done (2.384s)! For help, type "help"
+[19:55:47] [User Authenticator #1/INFO]: UUID of player Yinshibai is c0f19fc4-b990-4eaf-ba45-dbbc2edaec2e
+[19:55:48] [Server thread/INFO]: Yinshibai joined the game
+[19:55:48] [Server thread/INFO]: Yinshibai[/127.0.0.1:13992] logged in with entity id 45 at ([world]127.69620245254723, 114.0, -14.25267329815603)
+[19:57:53] [Server thread/INFO]: Yinshibai was slain by Zombie
+[20:00:45] [Server thread/INFO]: Made Yinshibai a server operator
+[20:01:03] [Server thread/INFO]: Yinshibai issued server command: /gamemode creative
+[20:01:03] [Server thread/INFO]: [Yinshibai: Set own game mode to Creative Mode]
+[20:06:35] [Server thread/INFO]: Yinshibai has made the advancement [A Throwaway Joke]
+[20:10:10] [Server thread/INFO]: Yinshibai has made the advancement [Bring Home the Beacon]
+[20:22:25] [Server thread/INFO]: Yinshibai issued server command: /gamemode spectator
+[20:22:25] [Server thread/INFO]: [Yinshibai: Set own game mode to Spectator Mode]
+[20:22:33] [Server thread/INFO]: Yinshibai issued server command: /gamemode adventure
+[20:22:33] [Server thread/INFO]: [Yinshibai: Set own game mode to Adventure Mode]
+[20:22:57] [Server thread/INFO]: Yinshibai issued server command: /gamemode adventure Yinshibai
+[20:23:15] [Server thread/INFO]: Yinshibai issued server command: /gamemode adventure
+[20:23:21] [Server thread/INFO]: Yinshibai issued server command: /gamemode adventure
+[20:23:30] [Server thread/INFO]: Yinshibai issued server command: /gamemode adventure
+[20:23:46] [Server thread/INFO]: Yinshibai issued server command: /gamemode creative Yinshibai
+[20:23:46] [Server thread/INFO]: [Yinshibai: Set own game mode to Creative Mode]
+[20:24:38] [Server thread/INFO]: Yinshibai lost connection: Disconnected
+[20:24:38] [Server thread/INFO]: Yinshibai left the game
+[20:24:46] [User Authenticator #2/INFO]: UUID of player Yinshibai is c0f19fc4-b990-4eaf-ba45-dbbc2edaec2e
+[20:24:46] [Server thread/INFO]: Yinshibai joined the game
+[20:24:46] [Server thread/INFO]: Yinshibai[/127.0.0.1:1350] logged in with entity id 6954 at ([world]126.56999592196411, 118.0, -15.902197964005106)
+[20:24:59] [Server thread/INFO]: Yinshibai lost connection: Disconnected
+[20:24:59] [Server thread/INFO]: Yinshibai left the game
+[20:25:05] [Server thread/INFO]: Stopping the server
+[20:25:05] [Server thread/INFO]: Stopping server
+[20:25:05] [Server thread/INFO]: Saving players
+[20:25:05] [Server thread/INFO]: Saving worlds
+[20:25:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:25:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:25:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:25:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:25:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:25:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:25:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
